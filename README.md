@@ -53,5 +53,5 @@ El candidato debe construir un **chatbot inteligente** que pueda:
 
 ---
 
-## 📂 Estructura del proyecto
+Muchas gracias por participar en nuestro proceso de selección! Exitos 🍀🤞
 

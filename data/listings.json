@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Departamento en Miami Beach",
+    "price": 350000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": "Miami Beach, FL",
+    "type": "Condominio"
+  },
+  {
+    "id": 2,
+    "title": "Casa familiar en Coral Gables",
+    "price": 850000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Coral Gables, FL",
+    "type": "Casa"
+  },
+  {
+    "id": 3,
+    "title": "Condominio en Downtown Miami",
+    "price": 500000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Downtown Miami, FL",
+    "type": "Condominio"
+  },
+  {
+    "id": 4,
+    "title": "Penthouse en Brickell",
+    "price": 1200000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "location": "Brickell, Miami, FL",
+    "type": "Penthouse"
+  },
+  {
+    "id": 5,
+    "title": "Casa frente al mar en Key Biscayne",
+    "price": 2500000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "location": "Key Biscayne, FL",
+    "type": "Casa de lujo"
+  },
+  {
+    "id": 6,
+    "title": "Loft moderno en Wynwood",
+    "price": 420000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Wynwood, Miami, FL",
+    "type": "Loft"
+  },
+  {
+    "id": 7,
+    "title": "Apartamento en Manhattan",
+    "price": 1500000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": "Manhattan, New York, NY",
+    "type": "Apartamento"
+  },
+  {
+    "id": 8,
+    "title": "Casa en Brooklyn",
+    "price": 950000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Brooklyn, New York, NY",
+    "type": "Casa"
+  },
+  {
+    "id": 9,
+    "title": "Estudio en Queens",
+    "price": 400000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": "Queens, New York, NY",
+    "type": "Estudio"
+  },
+  {
+    "id": 10,
+    "title": "Casa en Los Ángeles",
+    "price": 1350000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Los Ángeles, CA",
+    "type": "Casa"
+  },
+  {
+    "id": 11,
+    "title": "Condominio en San Francisco",
+    "price": 1750000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": "San Francisco, CA",
+    "type": "Condominio"
+  },
+  {
+    "id": 12,
+    "title": "Bungalow en San Diego",
+    "price": 800000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "San Diego, CA",
+    "type": "Bungalow"
+  },
+  {
+    "id": 13,
+    "title": "Casa en Houston",
+    "price": 600000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Houston, TX",
+    "type": "Casa"
+  },
+  {
+    "id": 14,
+    "title": "Apartamento en Austin",
+    "price": 450000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": "Austin, TX",
+    "type": "Apartamento"
+  },
+  {
+    "id": 15,
+    "title": "Casa de campo en Dallas",
+    "price": 720000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Dallas, TX",
+    "type": "Casa de campo"
+  }
+]

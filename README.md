@@ -21,6 +21,9 @@ El candidato debe construir un **chatbot inteligente** que pueda:
 - Usuario: `¿Quién es Trueway Realtors?`  
   Chatbot: `Trueway Realtors es una empresa inmobiliaria con sede en Miami especializada en la compra y venta de propiedades...`
 
+- Usuario: `¿Cuál es el número de atención al cliente?`  
+  Chatbot: `El número de atención al cliente es +1 (305) 555-1234.`
+
 ### Consultas de propiedades específicas
 - Usuario: `¿Qué propiedades tienen en Miami Beach?`  
   Chatbot: `Tenemos un departamento en Miami Beach por $350,000 con 2 habitaciones y 2 baños.`

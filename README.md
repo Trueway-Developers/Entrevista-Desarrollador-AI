@@ -56,5 +56,9 @@ El candidato debe construir un **chatbot inteligente** que pueda:
 
 ---
 
-Muchas gracias por participar en nuestro proceso de selección! Exitos 🍀🤞
+## ➕ PLUS
+Se valorará adicionalmente si la **interfaz del chatbot** se desarrolla con **React** y el **API backend** con **Node.js**.  
 
+---
+
+Muchas gracias por participar en nuestro proceso de selección! Éxitos 🍀🤞
